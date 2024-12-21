@@ -1,0 +1,10 @@
+https://github.com/pcdac055/exam.git
+
+
+echo "# exam" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/pcdac055/exam.git
+git push -u origin main
