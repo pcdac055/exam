@@ -1,0 +1,28 @@
+1. write command to perform below task
+
+A)create cdac1 and cdac2 directories
+b)copy cdac2 inside cdac1 directory
+c)CHAnge the permission of cdac2 to only have user read and execute permission
+d)find the number of characters in /etc/passwd file
+e)delte cdac2 directory
+
+2.submint screebshot and code
+
+write bash sript t fond given file exists or not at any path .Take filename from user
+
+3.
+a)write program to print five 4 digits random numbers(use java)
+b)create git project
+c)write dockerfile to execute a program in container
+
+4.
+a)create a project (select simple maven project) with all required dependencies
+b)write selenium script to automate "javascript count down"
+i)open https://testpages.eviltester.com/styled/javascript-countdown-test.html
+ii)enter seconds and click "reset timer" button 
+iii)verify results
+
+c)create new maven project in jenkins(use above project pom.xml) and execute the job goal "clean test"
+
+
+sovle 3 and 4 first and s3end me a.txt if q. recieved
