@@ -1,0 +1,19 @@
+mkdir Project 
+cd Project 
+git init
+git add file_name or git add .
+git commit -m "hello world "
+git status 
+-git remote add origin https://github.com/shwetakane01/Project2.git
+git branch
+git push origin main
+
+
+
+//Docker Commonds
+
+create docker file 
+create any realated file 
+docker build -t hello-java . (name of image)
+docker run  hello-java (run docker container)
+
