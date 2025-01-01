@@ -1,0 +1,15 @@
+develope restfulapui service for managing appoinments in a healthcare system.user should be able to schedule appoinments .view their upcoming appoinments and cancel appoinment
+1) Create Appointment
+ -post?appoinments
+-request:schedule a new appoinment by providing details like patient name,doctor,date and time
+-response:return the confirmation of the schedule appoinment.	
+
+2)Get upcoming appoinments;
+ endpoint:Get?appoinment
+_request :retrieve a list of upcoming appoinments for specific user
+response: return the details of upcoming appoinments in json format
+
+3)cancel appoinment
+-delete appoinment
+request-cancel a schedule
+response-return a success masage
